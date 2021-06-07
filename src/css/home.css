@@ -1,6 +1,9 @@
-#avtarImage{
-    position: relative;
-    height: 20rem;
-    float: right;
-    border-radius: 50%;
+
+html{
+    background-color: black;
+}
+
+nav{
+    background-color: black;
+    
 }
